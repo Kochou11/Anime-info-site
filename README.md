@@ -1,2 +1,2 @@
 # Anime-info-site
-A simple website  to check information about anime which uses jikan api to scrap data from MAL
+A simple website  to check information about anime which uses [jikan api](https://jikan.moe/) to scrap data from MAL
